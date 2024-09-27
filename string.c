@@ -5,7 +5,6 @@
 #include <string.h>
 #include <stdio.h>
 
-#include <alloca.h>
 
 String string_init(const char* cstr)
 {
